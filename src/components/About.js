@@ -192,7 +192,7 @@ export const About2 = () => (
           </div>
           <div className="desc">
             <p>
-              Sol Grid Bot isn't your regular trading bot. It has been trained throughouly in the realms of sports prediction and the possible outcomes.
+              Sol Grid Bot is not your regular trading bot. It has been trained throughouly in the realms of sports prediction and the possible outcomes.
             </p>
             <p>
               Each bot has proven effective providing 10x to 100x profits in the betting sector.
