@@ -161,7 +161,7 @@ const About = () => {
               <img src="/img/video/1.jpg" alt="" />
               <a
                 className="popup-youtube"
-                href="https://www.youtube.com/embed/2H7HiuUm_WE?si=tZGLoxPd2vYxS-ZD"
+                href="https://www.youtube.com/embed/2H7HiuUm_WE?si=tZGLoxPd2vYxS-ZD?autoplay=1"
               >
                 <img src="/svg/play.svg" alt="" className="fn__svg" />
               </a>
@@ -228,7 +228,7 @@ export const About2 = () => (
       <div className="abs_img" data-bg-img="/img/video/1.jpg" />
       <a
         className="popup-youtube"
-        href="https://www.youtube.com/embed/2H7HiuUm_WE?si=tZGLoxPd2vYxS-ZD"
+        href="https://www.youtube.com/embed/2H7HiuUm_WE?si=tZGLoxPd2vYxS-ZD?autoplay=1"
       >
         <img src="/svg/play.svg" alt="" className="fn__svg" />
       </a>
