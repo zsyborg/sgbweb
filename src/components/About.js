@@ -240,28 +240,28 @@ export const About2 = () => (
           <li>
             <div className="item">
               <div className="item_in">
-                <h3 className="fn__gradient_title">01</h3>
-                <p>Tokens</p>
+                {/* <h3 className="fn__gradient_title">01</h3> */}
+                <p>CUTTING EDGE PREDICTIVE TECHNOLOGY</p>
               </div>
             </div>
           </li>
           <li>
             <div className="item">
               <div className="item_in">
-                <h3 className="fn__gradient_title">02</h3>
-                <p>Sports</p>
+                {/* <h3 className="fn__gradient_title">02</h3> */}
+                <p>AUTOMATED TRADING TOOLS</p>
               </div>
             </div>
           </li>
           <li>
             <div className="item">
               <div className="item_in">
-                <h3 className="fn__gradient_title">03</h3>
-                <p>Grid Bot</p>
+                {/* <h3 className="fn__gradient_title">03</h3> */}
+                <p>TAKE CONTROL OF YOUR GAINS</p>
               </div>
             </div>
           </li>
-          <li>
+          {/* <li>
             <div className="item">
               <div className="item_in">
                 <h3 className="fn__gradient_title">04</h3>
@@ -276,14 +276,14 @@ export const About2 = () => (
                 <p>Holder Benefits</p>
               </div>
             </div>
-          </li>
+          </li> */}
         </ul>
       </div>
       {/* !Steps Shortcode */}
       <div className="fn_cs_join">
         <div className="join_in">
-          <h3 className="fn__maintitle upper" data-text="Join Our Community for Degen Signals">
-          Join Our Community for Degen Signals
+          <h3 className="fn__maintitle upper" data-text="Join Our Community">
+          Join Our Community
           </h3>
           
           <div className="buttons">
