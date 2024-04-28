@@ -32,8 +32,11 @@ const roadmapStep = (mySwiper, step, widthParts) => {
     case 768:
       viewBox = 1;
       break;
+    case 400:
+      viewBox = 1;
+      break;
     default:
-      viewBox = 4;
+      viewBox = 1;
   }
 
   step.style.width = (mySwiper.activeIndex + viewBox) * widthParts + "%";
@@ -51,6 +54,9 @@ export const roadMapProps = {
   loopAdditionalSlides: 10,
   watchSlidesProgress: true,
   breakpoints: {
+    400: {
+      slidesPerView: 1,
+    },
     768: {
       slidesPerView: 1,
     },
