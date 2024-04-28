@@ -7,16 +7,13 @@ const MobileNavigation = ({ walletToggle, navigationToggle }) => {
   return (
     <Fragment>
       <div className="metaportal_fn_mobnav">
-        <div className="mob_top">
-         =
-         
-        </div>
+        
         <div className="mob_mid">
           <div className="logo">
             <Link href="/">
-              {/* <a>
-                <img src="/img/logo.png" alt="" />
-              </a> */}
+              <a>
+                <img src="/img/logo.jpg" width={100} alt="" />
+              </a>
             </Link>
           </div>
           <div
