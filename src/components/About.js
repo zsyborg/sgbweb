@@ -195,7 +195,7 @@ export const About2 = () => (
             This feature involves utilizing a grid bot specifically tailored for SPL (Solana Program Library) tokens. 
             </p>
             <p>
-            A grid bot is an automated trading strategy that operates within preset price ranges or "grids," buying low and selling high within those ranges. Members can use this bot to automate their trading activities and potentially capitalize on price fluctuations in SPL tokens.
+            A grid bot is an automated trading strategy that operates within preset price ranges or <strong>grids</strong>, buying low and selling high within those ranges. Members can use this bot to automate their trading activities and potentially capitalize on price fluctuations in SPL tokens.
             </p>
           </div>
           <a
