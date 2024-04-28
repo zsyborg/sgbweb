@@ -212,7 +212,7 @@ export const About2 = () => (
         </div>
       </div>
       <div className="fn_cs_collection_info">
-        <h3 className="fn__gradient_title">10x to 100x</h3>
+        <h3 className="fn__gradient_title">24/7 DEGEN</h3>
         {/* <h3
           className="fn__maintitle upper"
           data-text="SOL GRID BOT"
