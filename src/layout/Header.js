@@ -46,18 +46,7 @@ const Header = ({ walletToggle, navigationToggle }) => {
               
             </ul>
           </div>
-          <div className="wallet">
-            {/* <a
-              href="#"
-              onClick={(e) => {
-                e.preventDefault();
-                walletToggle(true);
-              }}
-              className="metaportal_fn_button wallet_opener"
-            >
-              <span>Connect To Wallet</span>
-            </a> */}
-          </div>
+         
         </div>
       </div>
     </header>
