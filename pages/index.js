@@ -32,9 +32,13 @@ const Index3 = () => {
             SOL GRID BOT
           </h3>
           <div className="fn_cs_desc">
-            <p>
-            At SBG AI we have harnessed the power of AI to bring you trading signal of different categories.. An trust you will be mind blowned away.
-            </p>
+          <p className="job">-At SGB we utilize AI in order to bet and trade with an advantage. 
+            <br/><br/>
+            -Our winning technology  predicts winning sports bets and Solana token alpha for your benefit. 
+            <br/><br/>
+            -We strive to offer the best tools to assist in automated trading, market making, and betting. 
+            
+          </p>
           </div>
         </div>
         {/* Card Slider */}

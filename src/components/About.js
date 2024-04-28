@@ -181,8 +181,8 @@ export const About2 = () => (
     <div className="container small">
       <div className="fn_cs_shortabout">
         <div className="about_left">
-          <h3 className="fn__maintitle" data-text="Harnessing Technology">
-            Harnessing Technology
+          <h3 className="fn__maintitle" data-text="What is Grid Bot?">
+            What is Grid Bot?
           </h3>
           <div className="fn_cs_divider">
             <div className="divider">
@@ -192,10 +192,10 @@ export const About2 = () => (
           </div>
           <div className="desc">
             <p>
-              Sol Grid Bot is not your regular trading bot. It has been trained throughouly in the realms of sports prediction and the possible outcomes.
+            This feature involves utilizing a grid bot specifically tailored for SPL (Solana Program Library) tokens. 
             </p>
             <p>
-              Each bot has proven effective providing 10x to 100x profits in the betting sector.
+            A grid bot is an automated trading strategy that operates within preset price ranges or "grids," buying low and selling high within those ranges. Members can use this bot to automate their trading activities and potentially capitalize on price fluctuations in SPL tokens.
             </p>
           </div>
           <a
@@ -235,7 +235,7 @@ export const About2 = () => (
     </div>
     <div className="container">
       {/* Steps Shortcode */}
-      <div className="fn_cs_steps gap" data-cols={4} data-gap={60}>
+      <div className="fn_cs_steps gap" data-cols={5} data-gap={60}>
         <ul>
           <li>
             <div className="item">
@@ -249,7 +249,7 @@ export const About2 = () => (
             <div className="item">
               <div className="item_in">
                 <h3 className="fn__gradient_title">02</h3>
-                <p>Soccer</p>
+                <p>Sports</p>
               </div>
             </div>
           </li>
@@ -257,7 +257,7 @@ export const About2 = () => (
             <div className="item">
               <div className="item_in">
                 <h3 className="fn__gradient_title">03</h3>
-                <p>NBA</p>
+                <p>Grid Bot</p>
               </div>
             </div>
           </li>
@@ -265,7 +265,15 @@ export const About2 = () => (
             <div className="item">
               <div className="item_in">
                 <h3 className="fn__gradient_title">04</h3>
-                <p>MLB</p>
+                <p>Market Making</p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div className="item">
+              <div className="item_in">
+                <h3 className="fn__gradient_title">04</h3>
+                <p>Holder Benefits</p>
               </div>
             </div>
           </li>
