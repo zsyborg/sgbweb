@@ -17,21 +17,22 @@ const Index3 = () => {
   return (
     <Layout pageTitle={"Sports Redefined"}>
       {/* Home Section #2 */}
-      <section id="home2">
+      <section id="home2" style={{height:"100vh"}}>
         {/* BG */}
         <div className="video_bg">
-          <video src="/img/bg.mp4" autoPlay loop muted />
+          <video src="/logo.mp4" autoPlay loop muted />
         </div>
         {/* !BG */}
         <div className="container">
-          <h3
+          {/* <h3
             className="fn__maintitle big"
             data-text="SOL GRID BOT"
             data-align="center"
           >
             SOL GRID BOT
-          </h3>
-          <div className="fn_cs_desc">
+          </h3> */}
+          {/* <img src="/Concept3.jpg" width={100} /> */}
+          <div className="fn_cs_desc" style={{backgroundColor:"rgba(0,0,0,0.8)", padding: "20px"}}>
           <p className="job">-At SGB we utilize AI in order to bet and trade with an advantage. 
             <br/><br/>
             -Our winning technology  predicts winning sports bets and Solana token alpha for your benefit. 
@@ -42,7 +43,7 @@ const Index3 = () => {
           </div>
         </div>
         {/* Card Slider */}
-        <div
+        {/* <div
           className="frenify_cards_gallery"
           data-initial-width={540}
           data-ratio="0.925"
@@ -52,7 +53,7 @@ const Index3 = () => {
               <div className="img_holder">
                 <div className="item_in">
                   <div className="o_img" data-bg-img="/img/drops/10.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
+                  <img src="http://localhost:3000/nft/IMG_4573.png" alt="" />
                 </div>
               </div>
             </li>
@@ -60,7 +61,7 @@ const Index3 = () => {
               <div className="img_holder">
                 <div className="item_in">
                   <div className="o_img" data-bg-img="/img/drops/11.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
+                  <img src="http://localhost:3000/nft/IMG_4451.jpg" alt="" />
                 </div>
               </div>
             </li>
@@ -68,68 +69,12 @@ const Index3 = () => {
               <div className="img_holder">
                 <div className="item_in">
                   <div className="o_img" data-bg-img="/img/drops/1.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="img_holder">
-                <div className="item_in">
-                  <div className="o_img" data-bg-img="/img/drops/2.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="img_holder">
-                <div className="item_in">
-                  <div className="o_img" data-bg-img="/img/drops/3.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="img_holder">
-                <div className="item_in">
-                  <div className="o_img" data-bg-img="/img/drops/5.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="img_holder">
-                <div className="item_in">
-                  <div className="o_img" data-bg-img="/img/drops/6.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="img_holder">
-                <div className="item_in">
-                  <div className="o_img" data-bg-img="/img/drops/7.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="img_holder">
-                <div className="item_in">
-                  <div className="o_img" data-bg-img="/img/drops/8.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="img_holder">
-                <div className="item_in">
-                  <div className="o_img" data-bg-img="/img/drops/9.jpg" />
-                  <img src="/img/1x1.jpg" alt="" />
+                  <img src="http://localhost:3000/nft/IMG_4741.png" alt="" />
                 </div>
               </div>
             </li>
           </ul>
-        </div>
+        </div> */}
         {/* !Card Slider */}
       </section>
       {/* !Home Section #2 */}

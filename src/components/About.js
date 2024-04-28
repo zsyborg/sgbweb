@@ -6,13 +6,13 @@ const About = () => {
       <div className="fn_cs_about">
         <div className="left_part">
           <div className="img">
-            <div className="img_in" data-bg-img="/img/about/1.jpg">
-              <img src="/img/1x1.jpg" alt="" />
+            <div className="img_in" data-bg-img="http://localhost:3000/nft/IMG_4573.png">
+              <img src="http://localhost:3000/nft/IMG_4573.png" alt="" />
             </div>
           </div>
           <div className="bg_overlay">
             <div className="bg_color" />
-            <div className="bg_image" data-bg-img="/img/about/bg.jpg" />
+            <div className="bg_image" data-bg-img="http://localhost:3000/nft/IMG_4573.png" />
           </div>
         </div>
         <div className="right_part">
@@ -161,7 +161,7 @@ const About = () => {
               <img src="/img/video/1.jpg" alt="" />
               <a
                 className="popup-youtube"
-                href="https://www.youtube.com/embed/7e90gBu4pas"
+                href="https://www.youtube.com/embed/2H7HiuUm_WE?si=tZGLoxPd2vYxS-ZD"
               >
                 <img src="/svg/play.svg" alt="" className="fn__svg" />
               </a>
@@ -208,12 +208,12 @@ export const About2 = () => (
           </a>
         </div>
         <div className="about_right">
-          <div className="abs_img" data-bg-img="/img/about/2.jpg" />
+          <div className="abs_img" data-bg-img="http://localhost:3000/nft/IMG_4573.png" />
         </div>
       </div>
       <div className="fn_cs_collection_info">
         <h3 className="fn__gradient_title">10x to 100x</h3>
-        <h3
+        {/* <h3
           className="fn__maintitle upper"
           data-text="SOL GRID BOT"
         >
@@ -221,14 +221,14 @@ export const About2 = () => (
         </h3>
         <p>
           Standout and be a part of the revolutionalizing technology behind Sol Grid Bot. We have just started to break the barriers.
-        </p>
+        </p> */}
       </div>
     </div>
     <div className="fn_cs_video bg">
       <div className="abs_img" data-bg-img="/img/video/1.jpg" />
       <a
         className="popup-youtube"
-        href="https://www.youtube.com/embed/7e90gBu4pas"
+        href="https://www.youtube.com/embed/2H7HiuUm_WE?si=tZGLoxPd2vYxS-ZD"
       >
         <img src="/svg/play.svg" alt="" className="fn__svg" />
       </a>
