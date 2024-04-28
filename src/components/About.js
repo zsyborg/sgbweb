@@ -240,7 +240,7 @@ export const About2 = () => (
           <li>
             <div className="item">
               <div className="item_in">
-                {/* <h3 className="fn__gradient_title">01</h3> */}
+                <h3 className="fn__gradient_title">01</h3>
                 <p>CUTTING EDGE PREDICTIVE TECHNOLOGY</p>
               </div>
             </div>
@@ -248,7 +248,7 @@ export const About2 = () => (
           <li>
             <div className="item">
               <div className="item_in">
-                {/* <h3 className="fn__gradient_title">02</h3> */}
+                <h3 className="fn__gradient_title">02</h3>
                 <p>AUTOMATED TRADING TOOLS</p>
               </div>
             </div>
@@ -256,19 +256,20 @@ export const About2 = () => (
           <li>
             <div className="item">
               <div className="item_in">
-                {/* <h3 className="fn__gradient_title">03</h3> */}
+                <h3 className="fn__gradient_title">03</h3>
                 <p>TAKE CONTROL OF YOUR GAINS</p>
               </div>
             </div>
           </li>
-          {/* <li>
+           <li>
             <div className="item">
               <div className="item_in">
                 <h3 className="fn__gradient_title">04</h3>
-                <p>Market Making</p>
+                <p>SPL TOKEN MANAGEMENT SYSTEMS</p>
               </div>
             </div>
           </li>
+          {/*
           <li>
             <div className="item">
               <div className="item_in">
