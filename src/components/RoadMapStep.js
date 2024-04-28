@@ -123,6 +123,7 @@ const RoadMapSlider = () => {
                       -NFT mint<br/>
                       -Deployment of Market Making technology<br/>
                       -NFT rental/renewal program<br/>
+                      -Innovate predictive AI by using quantum mechanics to determine probability density of uniquely obtained data.
                       </p>
                     </div>
                   </div>

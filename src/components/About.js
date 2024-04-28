@@ -247,15 +247,15 @@ export const About2 = () => (
           </li>
           <li>
             <div className="item">
-              <div className="item_in">
+              <div className="item_in" style={{paddingTop:"80px"}}>
                 {/* <h3 className="fn__gradient_title">02</h3> */}
-                <h3 className="fn__gradient_title">AUTOMATED TRADING TOOLS</h3>
+                <h3 className="fn__gradient_title">AUTOMATED TRADING <br/>TOOLS</h3>
               </div>
             </div>
           </li>
           <li>
             <div className="item">
-              <div className="item_in">
+              <div className="item_in" style={{paddingTop:"80px"}}>
                 {/* <h3 className="fn__gradient_title">03</h3> */}
                 <h3 className="fn__gradient_title">TAKE CONTROL OF YOUR GAINS</h3>
               </div>

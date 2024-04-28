@@ -1182,7 +1182,12 @@ a.full_link{
 	left: 0;
 	right: 0;
 	bottom: 0;
-	transform: scaleX(0.85) scaleY(0.85) rotateY(180deg);
+	/* transform: scaleX(0.85) scaleY(0.85) rotateY(180deg); */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	vertical-align: middle;
 }
 .fn_cs_slider .metaportal_fn_videobutton{
 	opacity: 0;
@@ -1415,6 +1420,7 @@ a.full_link{
 	-webkit-text-stroke: 4px transparent;
 	color: #bc89da;
 	filter: drop-shadow(0 5px 20px rgba(204,0,255,.15));
+	text-align: center;
 }
 
 
